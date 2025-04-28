@@ -1,3 +1,4 @@
 /nas-server/target
 /nas-server/store/*
 /nas-web/build
+/nas-server/sqlite3.exe
