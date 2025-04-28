@@ -1,0 +1,10 @@
+{
+    "server": {
+        "host": "localhost:8081",
+        "passkey":"zxc005921",
+        "store_path":"store"
+    },
+    "jwt": {
+        "secret": "crtu xhog ciiy inus"
+    }
+}

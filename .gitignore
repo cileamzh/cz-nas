@@ -1,0 +1,3 @@
+/nas-server/target
+/nas-server/store/*
+/nas-web/build
